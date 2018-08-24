@@ -2,19 +2,16 @@ baseurl = "https://www.example.com"
 languageCode = "en"
 title = "Hugo Kiss theme"
 theme = "kiss"
-copyright = "&copy; <a href=\"https://github.com/ribice\">Emir Ribic</a> 2017"
-disqusShortname = "shortname"
-googleAnalytics = ""
-# Number of posts per page
-Paginate = 5
-enableRobotsTXT = true
+copyright = "2018 &copy; Evan Lau"
 
+# Number of posts per page
+Paginate = 10
+enableRobotsTXT = true
 
 [params.assets]
 customCSS = ["css/custom.css"]
 
 [params.info]
-adsense = "" # Adsense ID (ID only, without ca-pub-)
 enableSocial = false # Adds OpenGraph and Twitter cards
 homeTitle = "" # Title for home page
 poweredby = true # Adds powered by Hugo and Kiss below Copyright section
@@ -30,13 +27,15 @@ page = "" # Twitter Page username. If not set, params.social.twitter will be use
 
 [params.social]
 
-twitter = "ribicemir"
-github = "ribice"
-email = "ribice@gmail.com"
-linkedin = "ribice"
-facebook = "ribice"
-instagram = ""
-codepen = ""
+twitter = "twitter"
+github = "github"
+email = "hi@email.com"
+linkedin = "linkedin"
+facebook = "facebook"
+instagram = "instagram"
+codepen = "codepen"
+telegram = "telegram"
+gitlab = "gitlab"
 
 [params.matomoAnalytics]
 siteID = 1

@@ -1,9 +1,8 @@
 [social.base]
 codepen = 'https://codepen.io/'
-email =  'mailto:'
-facebook = 'https://facebook.com/'
+email = 'mailto:'
 github = 'https://github.com/'
 instagram = 'https://instagram.com/'
-linkedin = 'https://linkedin.com/in/'
 twitter = 'https://twitter.com/'
 gitlab = 'https://gitlab.com/'
+telegram = 'https://telegram.me/'

@@ -12,7 +12,6 @@ tags = [
 features = [
   "accessibility",
   "analytics",
-  "comments",
   "cover-image",
   "favicon",
   "multilingual",
@@ -26,10 +25,10 @@ features = [
 min_version = 0.28
 
 [author]
-  name = "ribice"
-  homepage = "https://ribice.ba"
+  name = "evan"
+  homepage = "https://evanlau.me"
 
 [original]
-  name = "hemingway"
-  homepage = "http://tanksuzuki.com"
-  repo = "https://github.com/tanksuzuki/hemingway"
+  name = "ribice"
+  homepage = "https://ribice.ba"
+  repo = "https://github.com/ribice/kiss"

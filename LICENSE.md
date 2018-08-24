@@ -1,5 +1,6 @@
 The MIT License (MIT)
 
+Copyright (c) 2018 Evan Lau
 Copyright (c) 2017 Emir Ribic
 Copyright (c) 2016 Asuka Suzuki
 
