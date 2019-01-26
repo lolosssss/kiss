@@ -13,3 +13,10 @@
     color: white;
     border-radius: 2px;
 }
+
+pre,
+pre code {
+    background-color: #f8f5ec;
+    color: #42464c;
+    border-radius: 2px;
+}
